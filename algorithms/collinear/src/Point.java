@@ -3,7 +3,7 @@
  * Date: 07/25/2014
  * Compilation:  javac Point.java
  * Dependencies: StdDraw.java
- * Description: An immutable data type for points in the plane.
+ * Description: A data type for points in the plane.
  *************************************************************************/
 
 import java.util.Comparator;
